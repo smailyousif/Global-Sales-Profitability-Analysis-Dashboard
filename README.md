@@ -32,7 +32,3 @@ This project analyzes a global sales dataset for "Adnan’s Company," covering o
 ## 🖼️ Dashboard Preview
 ![Dashboard Screenshot] <img width="990" height="533" alt="image" src="https://github.com/user-attachments/assets/595564c7-4a8b-4599-a559-1a27138d7379" />
 
-
-
-## 📝 Full Documentation
-A detailed 10-section report covering methodology, business impact, and future improvements can be found in the [Documentation folder](./Documentation).
